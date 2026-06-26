@@ -1,0 +1,4 @@
+interface:
+  display_name: "Corporate Card Analyzer"
+  short_description: "Analyze corporate card spending"
+  default_prompt: "Use $analyze-corporate-cards to analyze corporate card transaction files in data/ and summarize spending risks."

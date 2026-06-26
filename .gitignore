@@ -1,0 +1,13 @@
+.DS_Store
+._*
+
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+outputs/
+*.tmp
+~$*.xlsx
+~$*.xls
